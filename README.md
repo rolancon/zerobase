@@ -9,7 +9,7 @@ This system to generalize representation of integer numbers in any base up to ba
 - Base-z (`0z`) represents the **z**erobase, the absence of any (possible) number, and is a shorthand for the name of this system (Zerobase).
 
 Exampes:
-- Decimal `3`: `00w000` (base-1).
+- Decimal `3`: `00w000` (base-1 or unary).
 - Binary `0b1`: `0y1` or `01w1` (base-2).
 - Decimal `7`: `07w7` (base-8 or octal).
 - Decimal `10`: `09w10` (base-10).
